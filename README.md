@@ -1,6 +1,6 @@
 # Job Search Team: Version 1 Blueprint
 
-**Mission:** Get at least **two job offers at $60k+** in one of four tracks: **VC / finance**, **nonprofit fundraising and development**, **think tanks and advocacy groups**, or **startups**. Every target role mixes events, meetings and operations.
+**Mission:** Get at least **two job offers at $60k+ in Minneapolis–St. Paul** in one of four tracks: **VC / finance**, **nonprofit fundraising and development**, **think tanks and advocacy groups**, or **startups**. Every target role mixes events, meetings and operations. **The job is a bridge.** It should set you up to move to **Washington, DC or New York City in fall 2027 or January 2028**, ideally through an internal transfer.
 
 **Owner:** You. The team drafts. You approve and you send.
 **Your time:** 10+ hours a week of review and conversations.
@@ -56,7 +56,7 @@ You've already picked the job search, and that's correct. The original prompt's 
 | Job | Time saved / impact this month | Verdict |
 |---|---|---|
 | **Find and qualify leads** | High. Scanning boards, checking pay and fit takes hours | **Start now** |
-| **Warm intros and cold-to-warm nurture** | Highest. Referred candidates get interviews far more often than cold applicants, and you have a strong Chicago network | **Start now, core of v1** |
+| **Warm intros and cold-to-warm nurture** | Highest. Referred candidates get interviews far more often than cold applicants, and your Chicago and VC network reaches further than you think, including Minneapolis | **Start now, core of v1** |
 | Tailored resumes and cover letters | Medium-high, but only for leads that pass qualification | **Start now, on demand** |
 | Interview prep | High *later*, useless until interviews exist | **Wait, switch on in week 2–3** |
 | Salary negotiation | Critical at the offer stage only | **Wait** |
@@ -64,7 +64,16 @@ You've already picked the job search, and that's correct. The original prompt's 
 
 **Recommendation:** v1 = **Lead finding, warm-path mapping and nurture outreach**, with tailored materials only for approved leads.
 
-**Timing note (it's mid-November):** hiring slows from Thanksgiving through New Year. Nonprofits are also deep in year-end giving season. Use **the next 6 weeks to build warm relationships** (coffee chats, reconnects, holiday-season check-ins). Then **apply hard in the first two weeks of January**, when budgets reset and VC and startup hiring picks up. You'll walk into January with referrals instead of cold applications.
+### The two-city timeline
+| When | Phase | Goal |
+|---|---|---|
+| **Now → end of Dec 2026** | Warm up Minneapolis | Hiring slows over the holidays, so use these weeks for coffee chats and reconnects. Walk into January with referrals |
+| **Jan → Mar 2027** | Land the bridge job | Apply hard when budgets reset. Target start date: Feb–Apr 2027 |
+| **Apr → Aug 2027** | Perform and plant seeds | Do excellent work for 6+ months. Join national networks. Meet DC/NYC people at national conferences |
+| **May → Oct 2027** | Phase 2: re-aim the team | The Scout and Connector switch to DC/NYC. Ask about an internal transfer first, then search externally |
+| **Fall 2027 / Jan 2028** | Move | Start in DC or NYC with a title and a network |
+
+**Why this order works:** 8–12 months in a role is short but defensible, especially when you move *with* the employer or for a clear step up. Leaving after 3–4 months is what looks bad, so aim to start by April 2027 at the latest.
 
 ---
 
@@ -80,22 +89,45 @@ From your resume, your rare combination is: **events and operations professional
 | **Think tanks / advocacy / civic** | Events Manager, Programs & Events Manager, Member Engagement Manager, Government Affairs Events, Operations Manager | Large public events, policy-adjacent programming, SGA experience |
 | **Startups** | Community Manager, Events & Brand Manager, Operations Manager, Chief of Staff (early stage), Founder's Associate, Field Marketing / Events | Founder programming, startup ecosystem network; healthtech fits your BME degree |
 
-### Starter target list (Chicago). The Scout verifies current openings
-- **VC and ecosystem:** Hyde Park Venture Partners, Jump Capital, Chicago Ventures, M25, Origin Ventures, OCA Ventures, Pritzker Group VC, Lightbank, Hyde Park Angels, Drive Capital (alumni referrals), 1871, mHUB, MATTER (healthtech, a degree match), Polsky Center (UChicago), P33
-- **Civic / think tank / advocacy:** World Business Chicago, Chicago Council on Global Affairs, Civic Federation, Chicagoland Chamber of Commerce, Commercial Club / Civic Committee, Illinois Science & Technology Coalition
-- **Nonprofit development:** The Chicago Community Trust, Lurie Children's Foundation, Northwestern Medicine and university development offices, museums and cultural orgs (Art Institute, Lyric Opera, Museum of Science and Industry)
+### The bridge rule: every Minneapolis job must have a "move path"
+Rank employers by how easily the job carries you to DC or NYC:
 
-*These are starting points from general knowledge. Openings change constantly, so the Scout must confirm each one with a live link.*
+| Move path | What it means | Score |
+|---|---|---|
+| **Transfer path** | The employer has a DC or NYC office or sister organization you could move into | Best (2) |
+| **Network path** | The job puts you in front of national people: national conferences, DC fly-ins, investors and donors across the country | Good (1) |
+| **Local only** | Great job, but nobody in DC or NYC will have heard of it | Weak (0) |
+
+**DC vs. NYC, so you can decide later:** DC is the capital of think tanks, advocacy groups, trade associations and the gala circuit, and it fits your policy, lobbying and events track. NYC leads in VC, finance, startups and big nonprofit galas. Your Minneapolis job can keep both doors open, and you don't have to pick until about May 2027.
+
+### Starter target list (Minneapolis–St. Paul). The Scout verifies current openings
+*Starting points from general knowledge. Openings change constantly, so the Scout confirms each one with a live link. ★ = likely DC/NYC transfer path.*
+
+- **Medtech (your biomedical engineering degree is an edge here; Minneapolis is a major medtech hub):** Medical Alley Association (events, member engagement and policy work), and corporate events and government-affairs teams at ★Medtronic, ★Boston Scientific and ★Abbott
+- **Finance and VC:** ★Federal Reserve Bank of Minneapolis (public affairs and events; the Fed system includes the NY Fed and the Board in DC), ★Piper Sandler (investment bank with a large NYC presence), ★RBC Wealth Management, ★U.S. Bancorp, ★Ameriprise, Bread & Butter Ventures, Rally Ventures, Arthur Ventures, Lemhi Ventures, Gopher Angels
+- **Startups and ecosystem:** Twin Cities Startup Week (Beta.MN), Minnesota Cup (University of Minnesota), Launch Minnesota, and local health-tech and fintech startups. Look for remote-friendly startups with NYC hubs
+- **Civic, think tank and advocacy:** Greater MSP Partnership, Minneapolis Regional Chamber, Minnesota Chamber of Commerce, ★Humphrey School of Public Affairs (UMN; strong DC policy network), Citizens League, Minnesota Council on Foundations, corporate government-affairs teams (★Cargill, ★UnitedHealth Group, ★Target and ★General Mills have DC offices)
+- **Nonprofit development:** University of Minnesota Foundation, Children's Minnesota Foundation, Minneapolis Foundation, McKnight Foundation, Bush Foundation, Walker Art Center, Guthrie Theater, Minnesota Orchestra. Look for ★national nonprofits with Twin Cities offices
+
+### Bridge moves to make while you're in Minneapolis
+1. **Transfer your Junior League membership.** There are Junior Leagues in Minneapolis, DC and NYC, so your network moves with you.
+2. **Join one national professional group** with chapters in all three cities. For fundraising, the Association of Fundraising Professionals. For events, the International Live Events Association (ILEA) or the Professional Convention Management Association (PCMA).
+3. **Volunteer to staff anything national:** DC fly-ins, NYC investor events, national conferences. Then follow up with everyone you meet.
+4. **Keep the Chicago and Drive Capital network warm.** VC is national, and your Drive Capital contacts know people in NYC.
+
+### Interview honesty without hurting your chances
+You don't need to announce "I'm leaving in a year." If they ask about long-term goals, a true answer that helps you: *"I want to grow here, and I'd love to work toward the organization's national work. I know you have a DC office."* For ★ employers, that's a real plan, not a dodge.
 
 ### Pay reality check
-Illinois requires employers with 15+ employees to **post pay ranges** in job listings. The Scout uses the posted range to enforce your **$60k floor**. Rough expectations: VC platform roles and startup ops/community roles often clear $60k. Nonprofit "coordinator" titles often don't, while "manager" titles usually do. **Verify on each posting.**
+Minnesota requires employers with 30+ employees to **post pay ranges** in job listings (effective 2025). The Scout uses posted ranges to enforce your **$60k floor**. Rough expectations: $60k+ is realistic for "Manager" events, platform and ops titles in the Twin Cities, but not for many "Coordinator" titles. For the 2027 move, aim higher, around **$75–95k+**, because DC and NYC cost more. **Verify on every posting.**
 
 ### Resume upgrades (Writer will ask you for these; it will never invent them)
 1. **Add dollar figures.** Event budgets you managed, sponsorship dollars raised, and the amount raised at the Junior League gala or for the Little Black Dress Initiative. Development roles hire on "$ raised."
 2. **Build 3 versions from one master:** *VC Platform*, *Development & Events*, *Startup Ops & Community*. Each gets its own summary line and bullet order.
 3. **Frame Kinda Keru LLC** as consulting: "Independent event consultant to venues, startups and corporate teams." In interviews: "I've loved consulting, and I want to go deep inside one mission."
 4. **Use the degree:** for healthtech and science orgs, lead with it. Everywhere else, keep it short.
-5. **LinkedIn headline (paste by hand):** *Events & Operations | Ex-Drive Capital | Galas, Conferences & Founder Programs (1,500+ attendees) | Chicago*
+5. **LinkedIn headline (paste by hand):** *Events & Operations | Ex-Drive Capital | Galas, Conferences & Founder Programs (1,500+ attendees) | Minneapolis*. Set your LinkedIn location to Minneapolis once you're there, or as soon as you're committed.
+6. **Address line:** on the resume, change "Chicago, IL" to "Minneapolis, MN" once the move is real. Recruiters often filter out non-local candidates.
 
 ---
 
@@ -174,7 +206,7 @@ Sheet columns are in [`templates/`](templates/). Import each CSV as a tab in Goo
 | **Google Sheets** | Tracker: Leads, People, Outreach, Weekly | The team's shared memory and your dashboard | Free |
 | **Gmail** | Job alerts in, drafts out | Agents create drafts, you send. Label `JobAlerts` collects alert emails | Free |
 | **Google Calendar** | Coffee chats, interviews, follow-up reminders | Lead proposes times. You confirm before any invite goes out | Free |
-| **LinkedIn** | Job alerts, research, messages | Used by hand only. Turn on job alerts for your 4 tracks with Chicago and $60k+ filters | Free (Premium optional, not needed) |
+| **LinkedIn** | Job alerts, research, messages | Used by hand only. Turn on job alerts for your 4 tracks with Minneapolis–St. Paul and $60k+ filters. Add DC and NYC alerts in May 2027 | Free (Premium optional, not needed) |
 | **Light automation** | LinkedIn, Indeed, Idealist and Google job alerts, all emailed to Gmail | The Scout reads that label instead of scraping. No Zapier needed in v1 | Free |
 
 **Task manager?** Skip a separate one. The Sheet's `Next action` + `Next action date` columns, plus Calendar, cover it. Fewer tools means fewer places for things to fall through.
@@ -228,6 +260,8 @@ One clear task per day. About 1–2 hours each.
 | **7** | **Go live:** approve and send your first 5 warm messages and 1–2 applications. Put the weekly rhythm on your calendar | Logged in the Sheet with follow-up dates | **Full team** |
 
 **Week 2–3 add-on:** an **Interviewer** agent (prep briefs, likely questions and your story bank). Switch it on the day your first interview is booked.
+
+**Phase 2 switch (May 2027):** tell the Lead "Phase 2." The Scout adds DC and NYC, and the target pay moves up to $75–95k+. The Connector maps the DC and NYC contacts you've met through work, Junior League and national groups. The first move is always the internal transfer conversation.
 
 ---
 
