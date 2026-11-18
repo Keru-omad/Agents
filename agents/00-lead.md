@@ -69,6 +69,7 @@ APPROVAL PACK (one block per item):
 
 WEEKLY REPORT:
   Conversations this week: <n> (target 3+)  ← the number that matters
+  New Minneapolis contacts: <n> (target 5+)
   Leads found / approved / applied: <n>/<n>/<n>
   Outreach sent / replies: <n>/<n>
   Interviews in progress: <list>

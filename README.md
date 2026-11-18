@@ -109,6 +109,20 @@ Rank employers by how easily the job carries you to DC or NYC:
 - **Civic, think tank and advocacy:** Greater MSP Partnership, Minneapolis Regional Chamber, Minnesota Chamber of Commerce, ★Humphrey School of Public Affairs (UMN; strong DC policy network), Citizens League, Minnesota Council on Foundations, corporate government-affairs teams (★Cargill, ★UnitedHealth Group, ★Target and ★General Mills have DC offices)
 - **Nonprofit development:** University of Minnesota Foundation, Children's Minnesota Foundation, Minneapolis Foundation, McKnight Foundation, Bush Foundation, Walker Art Center, Guthrie Theater, Minnesota Orchestra. Look for ★national nonprofits with Twin Cities offices
 
+### Building a Minneapolis network from zero
+You know no one there yet, so the Connector runs a **cold-to-warm** play. Your secret weapon is that you plan events, and the fastest way into any city's professional scene is helping produce its events.
+
+| Move | How | Weekly target (from December) |
+|---|---|---|
+| **1. The Chicago bridge ask** | Message 20 Chicago and Drive Capital contacts: *"I'm moving back to Minneapolis. Who's the one person there I should meet?"* People who'd never refer you to a job will happily make one intro | 5 asks a week until 20 are done |
+| **2. Search 2nd-degree contacts by hand** | On LinkedIn, filter People → 2nd-degree → Location: Minneapolis, then by your target companies. You click; the Connector drafts the intro requests | 5 intro requests |
+| **3. Junior League of Minneapolis** | Transfer your membership **now**. You arrive with a built-in network, and a gala chair is valuable to them right away | Attend 1 event a month |
+| **4. Show up, then volunteer to help run it** | Medical Alley, Beta.MN / Twin Cities Startup Week, Minnesota Cup, Greater MSP, Minneapolis Regional Chamber, AFP Minnesota chapter, ILEA Minneapolis–St. Paul. Offer to help with logistics, so you meet the organizers rather than only attendees | 1–2 events a week |
+| **5. One freelance gig through Kinda Keru LLC** | Pitch a Minneapolis venue or startup on one event. You get local proof, local references and income | 1 pitch a week |
+| **6. IIT alumni in the Twin Cities** | IIT alumni search and LinkedIn alumni filter | 2 messages |
+
+**Phase 1 north star:** each week, aim for **3+ conversations** and **5+ new Minneapolis contacts** logged in the People tab.
+
 ### Bridge moves to make while you're in Minneapolis
 1. **Transfer your Junior League membership.** There are Junior Leagues in Minneapolis, DC and NYC, so your network moves with you.
 2. **Join one national professional group** with chapters in all three cities. For fundraising, the Association of Fundraising Professionals. For events, the International Live Events Association (ILEA) or the Professional Convention Management Association (PCMA).
@@ -127,7 +141,8 @@ Minnesota requires employers with 30+ employees to **post pay ranges** in job li
 3. **Frame Kinda Keru LLC** as consulting: "Independent event consultant to venues, startups and corporate teams." In interviews: "I've loved consulting, and I want to go deep inside one mission."
 4. **Use the degree:** for healthtech and science orgs, lead with it. Everywhere else, keep it short.
 5. **LinkedIn headline (paste by hand):** *Events & Operations | Ex-Drive Capital | Galas, Conferences & Founder Programs (1,500+ attendees) | Minneapolis*. Set your LinkedIn location to Minneapolis once you're there, or as soon as you're committed.
-6. **Address line:** on the resume, change "Chicago, IL" to "Minneapolis, MN" once the move is real. Recruiters often filter out non-local candidates.
+6. **Address line:** change the resume to "Minneapolis, MN" **now**, since you move on Tuesday, and set your LinkedIn location to Minneapolis this week. Recruiters filter out non-local candidates.
+7. **Your story:** *"I'm a Minnesota native moving back home after building my career in Chicago's startup and VC scene."* Local employers love a returner because it signals you'll stay. Lead every intro with it.
 
 ---
 
@@ -249,15 +264,18 @@ Sheet columns are in [`templates/`](templates/). Import each CSV as a tab in Goo
 
 One clear task per day. About 1–2 hours each.
 
-| Day | The one task | Test | Switch on |
-|---|---|---|---|
-| **1** | **Build HQ:** Drive folder *Job Search HQ*, Tracker Sheet (import `templates/*.csv`), *Master Resume* Doc (paste your resume plus any numbers you know), *Voice Samples* Doc (5–10 real messages you wrote) | Can you find everything in one folder? | — |
-| **2** | **Set up the Lead:** create the Claude Project, paste `00-lead.md`, upload the other 4 prompts and connect Drive, Gmail and Calendar | Ask the Lead: "What's my mission and what are my gates?" It should answer correctly | **Lead** |
-| **3** | **First lead hunt:** set job alerts on LinkedIn, Indeed and Idealist to email a Gmail label `JobAlerts`. Run Scout for 15 leads | Hand-check 5 scores. Do you agree? Adjust the rubric if not | **Scout** |
-| **4** | **Map your network:** export LinkedIn connections (LinkedIn → Settings → Data privacy → Get a copy of your data → Connections). Upload the CSV. Connector builds the People tab and matches people to target orgs | Are the top 10 "warm paths" real people you'd actually message? | **Connector** |
-| **5** | **Lock your materials:** Writer drafts the 3 resume versions, and you edit until you're proud of them | Reviewer checks all 3 against Master Resume | **Writer + Reviewer** |
-| **6** | **Dry run:** take 3 real leads end to end. Run the 5 hand tests in Section 8. Fix any prompt that misbehaves | Every draft passes your "would I send this?" read | — |
-| **7** | **Go live:** approve and send your first 5 warm messages and 1–2 applications. Put the weekly rhythm on your calendar | Logged in the Sheet with follow-up dates | **Full team** |
+**Built around your move:** three short setup days before you leave, a break for the move and Thanksgiving, then four days to go live from Minneapolis.
+
+| Day | Date | The one task | Test | Switch on |
+|---|---|---|---|---|
+| **1** | Wed Nov 18 | **Build HQ:** Drive folder *Job Search HQ*, Tracker Sheet (import `templates/*.csv`), *Master Resume* Doc (with Minneapolis address and any numbers you know), *Voice Samples* Doc | Can you find everything in one folder? | — |
+| **2** | Thu Nov 19 | **Set up the Lead:** create the Claude Project, paste `00-lead.md`, upload the other prompts and connect Drive, Gmail and Calendar | Ask: "What's my mission and what are my gates?" | **Lead** |
+| **3** | Fri Nov 20 | **Go local online:** LinkedIn location → Minneapolis. Job alerts for Minneapolis–St. Paul emailed to Gmail label `JobAlerts`. Start your Junior League transfer | Do the alerts arrive in the label? | **Scout** (alerts only) |
+| — | Sat Nov 21 – Sun Nov 29 | **Move + Thanksgiving.** No job-search work. Alerts keep piling up for later | — | — |
+| **4** | Mon Nov 30 | **First lead hunt + network map:** Scout scores the alert backlog. Export your LinkedIn connections (Settings → Data privacy → Get a copy of your data → Connections). Connector builds the "Chicago bridge ask" list | Hand-check 5 scores. Are the 20 bridge contacts real people you'd message? | **Scout + Connector** |
+| **5** | Tue Dec 1 | **Lock your materials:** Writer makes the 3 resume versions with the Minneapolis "back home" summary. You edit until they're right | Reviewer checks them against Master Resume | **Writer + Reviewer** |
+| **6** | Wed Dec 2 | **Dry run:** take 3 real leads end to end. Run the 5 hand tests in Section 8. Pick 2 December events to attend | Every draft passes your "would I send this?" read | — |
+| **7** | Thu Dec 3 | **Go live:** send your first 5 bridge asks and RSVP to the events. Put the weekly rhythm on your calendar | Logged in the Sheet with follow-up dates | **Full team** |
 
 **Week 2–3 add-on:** an **Interviewer** agent (prep briefs, likely questions and your story bank). Switch it on the day your first interview is booked.
 
